@@ -1,0 +1,10 @@
+{
+  "name": "your-project-name",
+  "scripts": {
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {
+    "wrangler": "^3.114.15",
+    "resend": "^3.5.0"
+  }
+}
